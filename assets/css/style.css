@@ -460,6 +460,9 @@ footer .copyright {
   #banner{
     height: 40vh;
   }
+  footer .copyright{
+    text-align: start;
+  }
 }
 
 
