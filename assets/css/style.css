@@ -633,14 +633,14 @@ footer .copyright {
   }
 
   #h1{
-    font-size: 38px;
+    font-size: 30px;
   }
   h2{
-    font-size: 28px;
+    font-size: 25px;
   }
   #hero{
-    padding: 0 20px;
-    background-position: 55%;
+    padding: 0 15px;
+    background-position: 45%;
   }
   #feature{
     justify-content: space-between;
