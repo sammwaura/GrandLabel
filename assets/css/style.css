@@ -625,6 +625,9 @@ footer .copyright {
 }
 
 @media (max-width:450px){
+  html{
+    font-size: 50%;
+  }
   .section-p1{
     padding: 15px;
   }
