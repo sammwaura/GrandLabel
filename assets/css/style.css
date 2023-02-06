@@ -637,9 +637,11 @@ footer .copyright {
 
   #h1{
     font-size: 30px;
+    color: #85da92;
   }
   h2{
     font-size: 25px;
+    color: #c9cbce;
   }
   #hero{
     padding: 0 15px;
@@ -649,8 +651,8 @@ footer .copyright {
     justify-content: space-between;
   }
   #feature .fe-box{
-    width: 155px;
-    margin: 0 0 15px 0;
+    width: 130px;
+    margin: 0 0 10px 0;
   }
   #product1 .pro{
     width: 100%;
