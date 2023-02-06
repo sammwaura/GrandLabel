@@ -624,12 +624,12 @@ footer .copyright {
 
 }
 
-@media (max-width:477px){
+@media (max-width:450px){
   .section-p1{
-    padding: 20px;
+    padding: 15px;
   }
   #header{
-    padding: 10px 45px;
+    padding: 10px 35px;
   }
 
   #h1{
